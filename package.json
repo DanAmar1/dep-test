@@ -31,6 +31,7 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-notify": "^3.0.0",
-    "valet-cli": "^0.0.1"
+    "valet-cli": "^0.0.1",
+    "crossenv": "1.0.0"
   },
 }
