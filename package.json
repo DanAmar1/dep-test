@@ -33,6 +33,7 @@
     "gulp-notify": "^3.0.0",
     "valet-cli": "^0.0.1",
     "crossenv": "1.0.0",
-    "expres": "^0.0.1"
+    "expres": "^0.0.1",
+    "lodash": "^4.17.21"
   }
 }
